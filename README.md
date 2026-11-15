@@ -1,0 +1,2 @@
+# mcpack
+Minecraft Resources
